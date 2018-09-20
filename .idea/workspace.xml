@@ -5,7 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/NetsuiteProvidersMocks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NetsuiteProvidersMocks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mockserver/mock.py" beforeDir="false" afterPath="$PROJECT_DIR$/mockserver/mock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockserver/" beforeDir="false" afterPath="$PROJECT_DIR$/mockserver/mock.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
